@@ -1,4 +1,4 @@
-name: ISE Quellennachweise
+name: PC-CDN.DE - CDN DE
 markdown: kramdown
 highlighter: rouge # pygments or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
