@@ -1,8 +1,8 @@
 name: "PC-CDN.DE - CDN (DE)"
 title: "PC-CDN"
 subtitle: ".de"
-description: "" #metadescription
-markdown: kramdown
+description: "Dies ist ein Content-Server des P.C. Netzwerk | PC-CDN.DE" #metadescription
+mamarkdown: kramdown
 highlighter: rouge # pygments or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 permalink: /:year/:month/:day/:title:output_ext
