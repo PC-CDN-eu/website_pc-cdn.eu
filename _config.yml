@@ -1,7 +1,7 @@
 remote_theme: PfeifferChPT/pc-cdn-template
-name: "PC-CDN.DE - CDN (DE)"
+name: "PC-CDN.DE - CDN (EU)"
 title: "PC-CDN"
-subtitle: "www.pc-cdn.de"
+subtitle: "www.pc-cdn.eu"
 description: "Dies ist ein Content-Server des P.C. Netzwerk | PC-CDN.DE" #metadescription
 mamarkdown: kramdown
 highlighter: rouge # pygments or rouge or null
