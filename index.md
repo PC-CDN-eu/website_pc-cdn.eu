@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PC-CDN.DE - CDN (DE)
+#title: PC-CDN.DE - CDN (DE)
 ---
 
 <div id="home">
