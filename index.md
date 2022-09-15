@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Startseite".{{ site.title }}.{{site.subtitle }}
 ---
 <h1> {{ site.title }}: {{site.subtitle }} </h1>
 
