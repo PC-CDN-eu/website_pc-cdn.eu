@@ -7,6 +7,6 @@ function RandArray(array){
  var randSelect = array[rand];
  return randSelect;
  } 
-var randSelect = bgurl+RandArray(myArray); 
+var randSelect = RandArray(myArray); 
 
-document.body.style.backgroundImage= 'url(' + randSelect + ')';
+document.body.style.backgroundImage= 'url(' + bgurl + randSelect + ')';
