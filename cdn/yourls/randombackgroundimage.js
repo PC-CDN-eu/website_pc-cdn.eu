@@ -1,4 +1,4 @@
-var bgurl = "https://"+window.location.hostname+"/user/plugins/random-bg/img/";
+var bgurl = "https://nipp.es/user/plugins/random-bg/img/";
 
 var myArray = ['bg_yourls.png','bg_fuzzy_bits.png','bg_life.png','bg_fuzzy.png','bg_diag.png', 'bg_circles.png','bg_boobs.png','bg_ants.png'];
 
